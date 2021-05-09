@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on BRF S.A
-- 🌱 I’m currently learning <br>![image](https://user-images.githubusercontent.com/83314555/117228392-546ab380-adef-11eb-8b9c-1a0fb1d809b3.png) <br>
- ![image](https://user-images.githubusercontent.com/83314555/117228368-4b79e200-adef-11eb-9150-a367c7fa1cd6.png) 
+- 🌱 I’m currently learning <br> ![image](https://user-images.githubusercontent.com/83314555/117228392-546ab380-adef-11eb-8b9c-1a0fb1d809b3.png) <br>
+![image](https://user-images.githubusercontent.com/83314555/117557993-4b781d00-b04f-11eb-94ae-e8eb1c556370.png) <br> ![image](https://user-images.githubusercontent.com/83314555/117558003-62b70a80-b04f-11eb-82b7-c88996d5afae.png)
+
 
 
 
